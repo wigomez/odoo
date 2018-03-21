@@ -31,3 +31,8 @@ For a standard installation please follow the <a href="https://www.odoo.com/docu
 from the documentation.
 
 Then follow <a href="https://www.odoo.com/documentation/11.0/tutorials.html">the developer tutorials</a>
+
+Fork Purpose
+------------
+
+The purpose for this Fork is to integrate Odoo with the Payment Services offered in the Dominican Republic, Specifically with SDP (Servicios Digitales Popular).
